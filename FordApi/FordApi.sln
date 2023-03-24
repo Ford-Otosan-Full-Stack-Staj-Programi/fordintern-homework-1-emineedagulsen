@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FordApi", "FordApi\FordApi.csproj", "{567648C6-B23C-41AA-AEC6-1B43192BBDBC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FordApi.Data", "FordApi.Data\FordApi.Data.csproj", "{B3DBD1DA-0D52-4798-AB3E-AF18DE196582}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{567648C6-B23C-41AA-AEC6-1B43192BBDBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567648C6-B23C-41AA-AEC6-1B43192BBDBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567648C6-B23C-41AA-AEC6-1B43192BBDBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567648C6-B23C-41AA-AEC6-1B43192BBDBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3DBD1DA-0D52-4798-AB3E-AF18DE196582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DBD1DA-0D52-4798-AB3E-AF18DE196582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3DBD1DA-0D52-4798-AB3E-AF18DE196582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DBD1DA-0D52-4798-AB3E-AF18DE196582}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1F1CBB7-5035-470E-9735-01A15E69B014}
+	EndGlobalSection
+EndGlobal
